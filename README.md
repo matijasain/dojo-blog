@@ -1,3 +1,5 @@
-# Run NPX json server
+# Dojo Blog
+## Simple React App
 
-npx json-server --watch data/db.json --port 8000
+### Run NPX json server
+- npx json-server --watch data/db.json --port 8000
